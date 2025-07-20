@@ -1,0 +1,12 @@
+names:
+- fire
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: wildfire-yh86l
+  url: https://universe.roboflow.com/mini-z0ruz/wildfire-yh86l/dataset/2
+  version: 2
+  workspace: mini-z0ruz
+test: /kaggle/input/ffirev5new/test
+train: /kaggle/input/ffirev5new/train
+val: /kaggle/input/ffirev5new/valid
