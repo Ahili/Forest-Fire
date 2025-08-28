@@ -25,12 +25,10 @@ This project leverages **satellite imagery** and **YOLO object detection models*
 ## 🖼 Project Screenshots  
 
 ### 🔍 Detection Output  
-![Detection Output]
-(![WhatsApp Image 2025-08-28 at 00 54 29_ed78505d](https://github.com/user-attachments/assets/139a2c29-a307-4e97-a7f0-15dc77f692b6)) <!-- Add sample output image -->
+![WhatsApp Image 2025-08-28 at 00 54 29_ed78505d](https://github.com/user-attachments/assets/139a2c29-a307-4e97-a7f0-15dc77f692b6) <!-- Add sample output image -->
 
 ### 📊 Model Comparison  
-![Comparison Chart]
-(<img width="1856" height="1276" alt="image" src="https://github.com/user-attachments/assets/83c92465-14bd-497d-be2b-dd856eca24d5" />) <!-- Add chart comparing YOLO models -->
+<img width="1856" height="1276" alt="image" src="https://github.com/user-attachments/assets/83c92465-14bd-497d-be2b-dd856eca24d5" /> <!-- Add chart comparing YOLO models -->
 
 ---
 
